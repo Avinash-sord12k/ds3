@@ -17,3 +17,7 @@ Recovering lost data due to corruption or system resets
 💎 Maxed out builds for PvP/PvE
 
 💼 Organized by character name and progression stage
+
+
+Installation:
+  - Download and extract the zip file to this location: C:\Users\{username}\AppData\Roaming\DarkSoulsIII
